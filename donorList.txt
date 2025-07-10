@@ -1,0 +1,18 @@
+D001
+John Doe
+A+
+No history
+25
+70
+D002
+Jane Smith
+B-
+Diabetes
+32
+65
+D003
+Robert Brown
+O+
+No history
+28
+80
