@@ -1,18 +1,24 @@
 D001
-John Doe
-A+
-No history
-25
-70
+hello
+o-
+Diabetes
+98
+45
 D002
 Jane Smith
-B-
+b-
 Diabetes
 32
 65
 D003
-Robert Brown
-O+
-No history
-28
-80
+robi
+o-
+covid
+2
+222
+D004
+gautam
+a+
+good
+22
+78
